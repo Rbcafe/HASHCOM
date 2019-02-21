@@ -1,0 +1,8 @@
+/**
+ * blankshield - Prevent reverse tabnabbing phishing attacks caused by _blank
+ *
+ * @version   0.6.0
+ * @link      https://github.com/danielstjules/blankshield
+ * @author    Daniel St. Jules <danielst.jules@gmail.com>
+ * @license   MIT
+ */
